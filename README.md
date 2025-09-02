@@ -433,7 +433,6 @@ The Todo application is fully functional with:
 4. Configure CI/CD pipeline
 5. Add monitoring and logging
 
----
 
 **Author:** Nelson Ngumo  
 **Project:** StegHub DevOps Cloud Bootcamp  
